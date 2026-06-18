@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\library management system\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455556666}|App.Core\\App.Core.csproj|c:\\library management system\\librarymanagement\\app.core\\services\\dbbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455556666}|App.Core\\App.Core.csproj|solutionrelative:app.core\\services\\dbbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455556666}|App.Core\\App.Core.csproj|c:\\library management system\\librarymanagement\\app.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455556666}|App.Core\\App.Core.csproj|solutionrelative:app.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|c:\\library management system\\librarymanagement\\app.windowsapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|solutionrelative:app.windowsapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|C:\\library management system\\LibraryManagement\\app.windowsapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|solutionrelative:app.windowsapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|c:\\library management system\\librarymanagement\\app.windowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|solutionrelative:app.windowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|c:\\library management system\\librarymanagement\\app.windowsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|solutionrelative:app.windowsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|C:\\library management system\\LibraryManagement\\app.windowsapp\\forms\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1111-2222-3333-444455557777}|App.WindowsApp\\App.WindowsApp.csproj|solutionrelative:app.windowsapp\\forms\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBBookService.cs",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.Core\\Services\\DBBookService.cs",
+              "RelativeDocumentMoniker": "App.Core\\Services\\DBBookService.cs",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.Core\\Services\\DBBookService.cs",
+              "RelativeToolTip": "App.Core\\Services\\DBBookService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:31:52.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "App.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.Core\\Models\\Book.cs",
+              "RelativeToolTip": "App.Core\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:31:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "App.WindowsApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Forms\\MainForm.cs",
+              "RelativeToolTip": "App.WindowsApp\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T16:02:29.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\App.config",
+              "RelativeDocumentMoniker": "App.WindowsApp\\App.config",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\App.config",
+              "RelativeToolTip": "App.WindowsApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-06T15:53:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Program.cs",
+              "RelativeDocumentMoniker": "App.WindowsApp\\Program.cs",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Program.cs",
+              "RelativeToolTip": "App.WindowsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:51:27.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "App.WindowsApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "App.WindowsApp\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:50:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Forms\\BookForm.cs",
+              "RelativeDocumentMoniker": "App.WindowsApp\\Forms\\BookForm.cs",
+              "ToolTip": "C:\\library management system\\LibraryManagement\\App.WindowsApp\\Forms\\BookForm.cs [Design]",
+              "RelativeToolTip": "App.WindowsApp\\Forms\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:50:47.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
