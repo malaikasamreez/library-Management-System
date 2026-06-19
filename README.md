@@ -186,7 +186,7 @@ Common server name values:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Dauddev07/LibraryManagement.git
+   git clone https://github.com/malaikasamreez/library-Management-System.git
    ```
 2. Open `LibraryManagement.slnx` in Visual Studio.
 3. Complete the [Database Setup](#database-setup) steps above.
